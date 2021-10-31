@@ -2,11 +2,11 @@
 This Project is made to qualify Servian Coding Assignment (Simple Weather App).
 
 ## Candidate Details
-Name: Ahmad Rafi Wiratmoko
-Email: a_rafi@live.com
-Phone 0452208309
-Web: yaeyx.com
-LinkedIn: https://linkedin.com/in/wiratmoko
+- Name: Ahmad Rafi Wiratmoko
+- Email: a_rafi@live.com
+- Phone 0452208309
+- Web: yaeyx.com
+- LinkedIn: https://linkedin.com/in/wiratmoko
 
 ## Getting Started
 - Clone this repo
